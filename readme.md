@@ -31,11 +31,6 @@ Flutter | Dart | SQFlite | Python
 * Looking for Internship 
 * Playground : HTML/CSS, Python
 
-<br>
-
-### My Wakatime Stats
-[![danarputra wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danarputra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
