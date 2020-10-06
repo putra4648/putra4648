@@ -13,9 +13,8 @@ I am a student majoring in Information Management, located in Indonesia, to be m
 Currently I'm learning about how to create Android applications with the Flutter framework and sometimes also learning about Front End.*
 
 <br>
-Flutter | Dart | SQFlite
+Flutter | Dart | SQFlite | Python
 
-<br>
 <br>
 
 ### Let's connect with me
