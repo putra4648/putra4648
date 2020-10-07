@@ -23,8 +23,6 @@ Flutter | Dart | SQFlite | Python
 
 [<img height="30" src="icons/linkedin.ico"/>](https://www.linkedin.com/in/danar-p-530197108/)
 
-<br>
-
 ### My Focus
 * Primary language: Dart, because Flutter use Dart
 * Currently learning how to use Bloc in Flutter :sob:
