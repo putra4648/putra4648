@@ -29,7 +29,7 @@ Flutter | Dart | SQFlite | Python
 * Looking for Internship 
 * Playground : HTML/CSS, Python
 
-
+![Visitor Count](https://profile-counter.glitch.me/danarputra4648/count.svg)
 
 
 
