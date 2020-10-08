@@ -13,10 +13,12 @@ I am a student majoring in Information Management, located in Indonesia, to be m
 Currently I'm learning about how to create Android applications with the Flutter framework and sometimes also learning about Front End.*
 
 <br>
+<p>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> 
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-%fffff.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 <br>
 
