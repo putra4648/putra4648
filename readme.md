@@ -6,7 +6,6 @@
 <br>
 
 ## My Background
----
 
 *Hello there, my name is Danar Putra Pradana. <br>
 I am a student majoring in Information Management, located in Indonesia, to be more precise at Gunadarma University.
@@ -20,7 +19,6 @@ Currently I'm learning about how to create Android applications with the Flutter
 <img src="https://img.shields.io/badge/python-%fffff.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<br>
 
 ### Let's connect with me
 
