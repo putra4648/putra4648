@@ -30,7 +30,7 @@ Currently I'm learning about how to create Android applications with the Flutter
 * Primary language: Dart, because Flutter use Dart
 * Currently learning how to use Bloc in Flutter :sob:
 * Looking for Internship 
-* Playground : HTML/CSS, Python
+* Playground : HTML/CSS, Javascript, Dart
 
 ![Visitor Count](https://profile-counter.glitch.me/danarputra4648/count.svg)
 
