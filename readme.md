@@ -28,7 +28,7 @@ Currently I'm learning about how to create Android applications with the Flutter
 
 ### My Focus
 * Primary language: Dart, because Flutter use Dart
-* Currently learning how to use Bloc in Flutter :sob:
+* Currently learning how to use Bloc in Flutter :sob: and MERN Stack
 * Looking for Internship 
 * Playground : HTML/CSS, Javascript, Dart
 
