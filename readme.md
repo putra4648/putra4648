@@ -16,7 +16,6 @@ Currently I'm learning about how to create Android applications with the Flutter
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> 
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-%fffff.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 
@@ -28,7 +27,7 @@ Currently I'm learning about how to create Android applications with the Flutter
 
 ### My Focus
 * Primary language: Dart, because Flutter use Dart
-* Currently learning how to use Bloc in Flutter :sob: and MERN Stack
+* Currently learning how to use Bloc in Flutter and MERN Stack
 * Looking for Internship 
 * Playground : HTML/CSS, Javascript, Dart
 
