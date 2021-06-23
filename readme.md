@@ -14,9 +14,11 @@ Currently I'm learning about how to create Android applications with the Flutter
 
 <br>
 <p>
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> 
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-logo.svg?&style=for-the-badge&logo=Flutter&logoColor=white&color=black" /> 
+<img src="https://img.shields.io/badge/sqlite-logo.svg?&style=for-the-badge&logo=sqlite&logoColor=white&color=black"/>
+<img src="https://img.shields.io/badge/dart-logo.svg?&style=for-the-badge&logo=dart&logoColor=white&color=black"/>
+<img src="https://img.shields.io/badge/vuejs-logo.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=black"/>
+<img src="https://img.shields.io/badge/mongodb-logo.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black"/>
 </p>
 
 
@@ -28,9 +30,14 @@ Currently I'm learning about how to create Android applications with the Flutter
 
 ### My Focus
 * Primary language: Dart, sometimes using Vue for create small web project
-* Currently learning how is Flutter work and Vue too
+* Currently learning Flutter and Vue too
 * Looking for Internship 
 * Playground : HTML/CSS, Javascript(Vue), Dart,
+<p>
+<img src="https://img.shields.io/badge/zorrin-logo.svg?style=for-the-badge&logo=zorin&logoColor=white&color=important"/>
+<img src="https://img.shields.io/badge/windows-logo.svg?style=for-the-badge&logo=windows&logoColor=white&color=important"/>  
+<img src="https://img.shields.io/badge/terminal-logo.svg?style=for-the-badge&logo=windowsterminal&logoColor=white&color=important"/>  
+</p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/danarputra4648/count.svg) -->
 
