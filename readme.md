@@ -36,9 +36,9 @@ Currently I'm learning about how to create Android applications with the Flutter
 * Playground : HTML/CSS, Javascript(Vue), Dart,
 
 <p>
-  <img src="https://img.shields.io/badge/zorin-logo.svg?&style=for-the-badge&logo=zorin&logoColor=white&color=black"/>  
-  <img src="https://img.shields.io/badge/windows-logo.svg?&style=for-the-badge&logo=windows&logoColor=white&color=black"/>  
-  <img src="https://img.shields.io/badge/terminal-logo.svg?&style=for-the-badge&logo=windowsterminal&logoColor=white&color=black"/>  
+  <img src="https://img.shields.io/badge/zorin-logo.svg?&style=for-the-badge&logo=zorin&logoColor=white&color=important"/>  
+  <img src="https://img.shields.io/badge/windows-logo.svg?&style=for-the-badge&logo=windows&logoColor=white&color=important"/>  
+  <img src="https://img.shields.io/badge/terminal-logo.svg?&style=for-the-badge&logo=windowsterminal&logoColor=white&color=important"/>  
 </p>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/danarputra4648/count.svg) -->
 
