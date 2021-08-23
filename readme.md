@@ -23,7 +23,7 @@ Currently I'm learning about how to create Android applications with the Flutter
 </p>
 
 
-### Let's connect with me
+### Connect with me
 
 <br>
 
@@ -33,7 +33,7 @@ Currently I'm learning about how to create Android applications with the Flutter
 * Primary language: Dart, sometimes using Vue for create small web project
 * Currently learning how is Flutter work and Vue too
 * Looking for Internship 
-* Playground : HTML/CSS, Javascript(Vue), Dart,
+* Playground : HTML/CSS, Javascript, Dart
 
 <p>
   <img src="https://img.shields.io/badge/zorin-logo.svg?&style=for-the-badge&logo=zorin&logoColor=white&color=important"/>  
