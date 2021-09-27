@@ -6,13 +6,14 @@
 
 <br>
 
-## My Background
+<!-- ## My Background
 
 *Hello there, my name is Danar Putra Pradana. <br>
 I am a student majoring in Information Management, located in Indonesia, to be more precise at Gunadarma University.
 Currently I'm learning about how to create Android applications with the Flutter framework and sometimes also learning about Front End.*
 
 <br>
+-->
 <p>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white&color=black" /> 
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white&color=black"/>
@@ -30,10 +31,10 @@ Currently I'm learning about how to create Android applications with the Flutter
 [<img src="https://img.shields.io/badge/linkedin-logo.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=informational"/>](https://www.linkedin.com/in/danar-p-530197108/)
 
 ### My Focus
-* Primary language: Dart, sometimes using Vue for create small web project
-* Currently learning how is Flutter work and Vue too
+* Primary language: Dart, also learning JS & TS
+* Currently learning Flutter and Vue too with TS
 * Looking for Internship 
-* Playground : HTML/CSS, Javascript, Dart
+* Playground : Javascript, Dart, Typescript
 
 <p>
   <img src="https://img.shields.io/badge/zorin-logo.svg?&style=for-the-badge&logo=zorin&logoColor=white&color=important"/>  
