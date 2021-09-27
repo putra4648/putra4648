@@ -1,4 +1,4 @@
-![Danar Putra github stats](https://github-readme-stats.vercel.app/api?username=pradana4648&show_icons=true&theme=solarized-light)
+![Danar Putra github stats](https://github-readme-stats.vercel.app/api?username=pradana4648&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradana4648&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
