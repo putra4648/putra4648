@@ -32,7 +32,7 @@ Currently I'm learning about how to create Android applications with the Flutter
 
 ### My Focus
 * Primary language: Dart, also learning JS & TS
-* Currently learning Flutter and Vue too with TS
+* Currently learning Flutter and React with TS
 * Looking for Internship 
 * Playground : Javascript, Dart, Typescript
 
