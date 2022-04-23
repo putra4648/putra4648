@@ -5,7 +5,7 @@
 <!-- [![Wakatime Status](https://github-readme-stats.vercel.app/api/wakatime?username=@pradana4648)](https://github.com/anuraghazra/github-readme-stats) -->
 ## My Background
 
-*Hello there, my name is Danar Putra Pradana. <br>
+*Hello there, my name is Danar Putra. <br>
 I am a student majoring in Information Management, located in Indonesia, to be more precise at Gunadarma University.
 Currently I'm learning about how to create Android applications with the Flutter framework and sometimes also learning about Front End.*
 
