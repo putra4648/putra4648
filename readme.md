@@ -1,14 +1,3 @@
-<!-- ![Danar Putra github stats](https://github-readme-stats.vercel.app/api?username=pradana4648&show_icons=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradana4648&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- [![Wakatime Status](https://github-readme-stats.vercel.app/api/wakatime?username=@pradana4648)](https://github.com/anuraghazra/github-readme-stats) -->
-## My Background
-
-*Hello there, my name is Danar Putra. <br>
-I am a student majoring in Information Management, located in Indonesia, to be more precise at Gunadarma University.
-Currently I'm learning about how to create Android applications with the Flutter framework and sometimes also learning about Front End.*
-
 ## Skills
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white&color=black)
 ![Dart](https://img.shields.io/badge/dart-lang.svg?&style=for-the-badge&logo=dart&logoColor=white&color=black) 
