@@ -9,20 +9,4 @@
 
 
 ### Connect with me
-
 [<img src="https://img.shields.io/badge/linkedin-logo.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=informational"/>](https://www.linkedin.com/in/danar-p-530197108/)
-
-### My Focus
-* Primary language: Dart, also learning JS & TS
-* Currently learning Flutter and React with TS
-* Looking for Internship 
-* Playground : Javascript, Dart, Typescript
-
-![Pop Os](https://img.shields.io/badge/pop_os-logo.svg?&style=for-the-badge&logo=popos&logoColor=white&color=important)
-![Vscode](https://img.shields.io/badge/vscode-logo.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&color=important)
-![Terminal](https://img.shields.io/badge/terminal-logo.svg?&style=for-the-badge&logo=windowsterminal&logoColor=white&color=important)
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/danarputra4648/count.svg) -->
-
-
-
