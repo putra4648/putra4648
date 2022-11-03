@@ -22,3 +22,6 @@
 <p><a href="https://www.buymeacoffee.com/pradana4648"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pradana4648" /></a></p><br><br>
 
 <img src='https://github.com/pradana4648/pradana4648/blob/output/github-contribution-grid-snake.svg'/>
+
+## Meme
+![](https://i.imgur.com/PjMOKNg.jpeg)
