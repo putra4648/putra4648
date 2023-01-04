@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradana</h1>
 <h3 align="center">A passionate fullstack from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **Flutter and Springboot**
 
 - 👨‍💻 All of my projects are available at [pradanar.my.id](pradanar.my.id)
 
-- 💬 Ask me about **Flutter, Dart, Hapijs, React**
+- 💬 Ask me about **Flutter, Dart, React**
 
 - ⚡ Fun fact **I don't know what is me actually**
 
@@ -22,6 +22,3 @@
 <p><a href="https://www.buymeacoffee.com/pradana4648"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pradana4648" /></a></p><br><br>
 
 <img src='https://github.com/pradana4648/pradana4648/blob/output/github-contribution-grid-snake.svg'/>
-
-## Meme
-![](https://i.imgur.com/PjMOKNg.jpeg)
