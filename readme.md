@@ -1,3 +1,3 @@
-Developer not good :(
+The developer that's not good :(
 
 
