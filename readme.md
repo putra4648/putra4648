@@ -1,3 +1,5 @@
+### Profile 
+
 The developer that's not good :(
 
 ### Statistic
@@ -16,3 +18,10 @@ Dart         53 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   02.76 %
 ```
 
 <!--END_SECTION:waka-->
+
+If you love snake eater here the snake 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
