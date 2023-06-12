@@ -1,6 +1,6 @@
 ### Profile 
 
-The developer that's not good :(
+Currently I'm learning Spring ecosystem with Springboot
 
 ### Statistic
 <!--START_SECTION:waka-->
