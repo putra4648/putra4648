@@ -6,7 +6,7 @@ Currently I'm learning Spring ecosystem with Springboot
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 November 2023 - To: 28 December 2023
+From: 29 November 2023 - To: 29 December 2023
 
 Total Time: 4 hrs 26 mins
 
