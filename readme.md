@@ -6,11 +6,11 @@ Currently I'm learning Spring ecosystem with Springboot
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 December 2023 - To: 30 January 2024
+From: 01 January 2024 - To: 31 January 2024
 
-Total Time: 38 mins
+Total Time: 39 mins
 
-Dart   38 mins         ͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎   100.00 %
+Dart   39 mins         ͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎   100.00 %
 ```
 
 <!--END_SECTION:waka-->
