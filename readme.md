@@ -6,15 +6,15 @@ Currently I'm learning Spring ecosystem with Springboot
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 January 2024 - To: 18 February 2024
+From: 20 January 2024 - To: 19 February 2024
 
-Total Time: 19 hrs 12 mins
+Total Time: 24 hrs 21 mins
 
-Java              6 hrs 24 mins   ͎͎͎͎͎͎͎͎>>>>>>>>>>>>>>>>>   33.36 %
-Dart              6 hrs 16 mins   ͎͎͎͎͎͎͎͎͕>>>>>>>>>>>>>>>>   32.67 %
-HTML              3 hrs 36 mins   ͎͎͎͎>>>>>>>>>>>>>>>>>>>>>   18.78 %
-JSON              38 mins         ̞>>>>>>>>>>>>>>>>>>>>>>>>   03.32 %
-TypeScript        28 mins         ̝>>>>>>>>>>>>>>>>>>>>>>>>   02.46 %
+Java              6 hrs 24 mins   ͎͎͎͎͎͎̦>>>>>>>>>>>>>>>>>>   26.29 %
+Dart              6 hrs 16 mins   ͎͎͎͎͎͎͚>>>>>>>>>>>>>>>>>>   25.75 %
+HTML              5 hrs 19 mins   ͎͎͎͎͎͚>>>>>>>>>>>>>>>>>>>   21.87 %
+TypeScript        3 hrs 27 mins   ͎͎͎̦>>>>>>>>>>>>>>>>>>>>>   14.21 %
+JSON              54 mins         ̡>>>>>>>>>>>>>>>>>>>>>>>>   03.70 %
 ```
 
 <!--END_SECTION:waka-->
