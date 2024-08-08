@@ -6,15 +6,15 @@ Nothing good in here...
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 July 2024 - To: 05 August 2024
+From: 07 July 2024 - To: 06 August 2024
 
-Total Time: 3 hrs 14 mins
+Total Time: 1 hr 11 mins
 
-Java              2 hrs 16 mins   ͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎̝>>>>>>>   70.49 %
-YAML              19 mins         ͎͎̦>>>>>>>>>>>>>>>>>>>>>>   10.07 %
-Markdown          12 mins         ͎̦>>>>>>>>>>>>>>>>>>>>>>>   06.20 %
-Other             8 mins          ͎͙>>>>>>>>>>>>>>>>>>>>>>>   04.38 %
-Dart              6 mins          ̡>>>>>>>>>>>>>>>>>>>>>>>>   03.51 %
+Java         37 mins         ͎͎͎͎͎͎͎͎͎͎͎͎͎͕>>>>>>>>>>>   52.81 %
+Markdown     12 mins         ͎͎͎͎͕>>>>>>>>>>>>>>>>>>>>   16.85 %
+Other        8 mins          ͎͎͎>>>>>>>>>>>>>>>>>>>>>>   11.91 %
+Dart         6 mins          ͎͎>>>>>>>>>>>>>>>>>>>>>>>   09.55 %
+YAML         5 mins          ͎̞>>>>>>>>>>>>>>>>>>>>>>>   07.30 %
 ```
 
 <!--END_SECTION:waka-->
