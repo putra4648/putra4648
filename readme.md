@@ -6,15 +6,15 @@ Nothing good in here...
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 August 2024 - To: 12 September 2024
+From: 14 August 2024 - To: 13 September 2024
 
-Total Time: 62 hrs 57 mins
+Total Time: 66 hrs 24 mins
 
-TypeScript        34 hrs 3 mins   ͎͎͎͎͎͎͎͎͎͎͎͎͎̦>>>>>>>>>>>   54.09 %
-Java              26 hrs 55 mins  ͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>>>   42.77 %
-XML               58 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   01.56 %
-Java Properties   29 mins         ͕>>>>>>>>>>>>>>>>>>>>>>>>   00.78 %
-HTML              16 mins         ͙>>>>>>>>>>>>>>>>>>>>>>>>   00.42 %
+TypeScript        35 hrs 58 mins  ͎͎͎͎͎͎͎͎͎͎͎͎͎̦>>>>>>>>>>>   54.16 %
+Java              28 hrs 57 mins  ̡͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>>   43.61 %
+XML               45 mins         ͜>>>>>>>>>>>>>>>>>>>>>>>>   01.13 %
+Java Properties   18 mins         ͙>>>>>>>>>>>>>>>>>>>>>>>>   00.48 %
+HTML              13 mins         ͙>>>>>>>>>>>>>>>>>>>>>>>>   00.34 %
 ```
 
 <!--END_SECTION:waka-->
