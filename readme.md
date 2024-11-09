@@ -10,15 +10,15 @@ Past Project
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 October 2024 - To: 06 November 2024
+From: 08 October 2024 - To: 07 November 2024
 
-Total Time: 94 hrs 49 mins
+Total Time: 90 hrs 26 mins
 
-Java              41 hrs 44 mins  ͎͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>>   44.01 %
-JavaScript        30 hrs 42 mins  ͎͎͎͎͎͎͎͎͙>>>>>>>>>>>>>>>>   32.39 %
-HTML              16 hrs 21 mins  ͎͎͎͎͜>>>>>>>>>>>>>>>>>>>>   17.26 %
-XML               2 hrs 57 mins   ̞>>>>>>>>>>>>>>>>>>>>>>>>   03.13 %
-TypeScript        1 hr 11 mins    ͜>>>>>>>>>>>>>>>>>>>>>>>>   01.27 %
+Java              39 hrs 32 mins  ̡͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>>   43.72 %
+JavaScript        30 hrs 26 mins  ͎͎͎͎͎͎͎͎͚>>>>>>>>>>>>>>>>   33.67 %
+HTML              15 hrs 46 mins  ͎͎͎͎>>>>>>>>>>>>>>>>>>>>>   17.44 %
+XML               2 hrs 16 mins   ̝>>>>>>>>>>>>>>>>>>>>>>>>   02.52 %
+TypeScript        1 hr 7 mins     ͜>>>>>>>>>>>>>>>>>>>>>>>>   01.25 %
 ```
 
 <!--END_SECTION:waka-->
