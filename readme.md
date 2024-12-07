@@ -1,3 +1,6 @@
+Curently not using in this platform as main repo, just for fun project only
+Mainly i use gitlab for working project
+
 ### Statistic
 <!--START_SECTION:waka-->
 
