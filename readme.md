@@ -1,11 +1,3 @@
-### Profile (Gitlab) 
-
-Current Project
--  Transfer Request
-
-Past Project
--  Purchase Requisition System 
-
 ### Statistic
 <!--START_SECTION:waka-->
 
