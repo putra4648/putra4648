@@ -6,15 +6,15 @@ Mainly i use gitlab for working project
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 December 2024 - To: 11 January 2025
+From: 13 December 2024 - To: 12 January 2025
 
-Total Time: 108 hrs 32 mins
+Total Time: 107 hrs 27 mins
 
-Java              53 hrs 37 mins  ͎͎͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>   49.40 %
-HTML              32 hrs 23 mins  ͎͎͎͎͎͎͎͚>>>>>>>>>>>>>>>>>   29.85 %
-JavaScript        7 hrs 59 mins   ͎̞>>>>>>>>>>>>>>>>>>>>>>>   07.37 %
-YAML              6 hrs 16 mins   ͎͚>>>>>>>>>>>>>>>>>>>>>>>   05.79 %
-XML               2 hrs 50 mins   ̝>>>>>>>>>>>>>>>>>>>>>>>>   02.61 %
+Java              53 hrs 19 mins  ͎͎͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>   49.63 %
+HTML              31 hrs 32 mins  ͎͎͎͎͎͎͎>>>>>>>>>>>>>>>>>>   29.35 %
+JavaScript        7 hrs 59 mins   ͎̞>>>>>>>>>>>>>>>>>>>>>>>   07.44 %
+YAML              6 hrs 16 mins   ͎͚>>>>>>>>>>>>>>>>>>>>>>>   05.85 %
+XML               2 hrs 48 mins   ̝>>>>>>>>>>>>>>>>>>>>>>>>   02.61 %
 ```
 
 <!--END_SECTION:waka-->
