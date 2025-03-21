@@ -6,15 +6,15 @@ Proyek gabut yang sedang dikerjakan :
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 February 2025 - To: 18 March 2025
+From: 17 February 2025 - To: 19 March 2025
 
-Total Time: 99 hrs 29 mins
+Total Time: 97 hrs 12 mins
 
-Java              44 hrs 17 mins  ͎͎͎͎͎͎͎͎͎͎͎͙>>>>>>>>>>>>>   44.52 %
-HTML              26 hrs 15 mins  ͎͎͎͎͎͎̝>>>>>>>>>>>>>>>>>>   26.40 %
-JavaScript        6 hrs 22 mins   ͎̝>>>>>>>>>>>>>>>>>>>>>>>   06.41 %
-YAML              4 hrs 17 mins   ͎͙>>>>>>>>>>>>>>>>>>>>>>>   04.32 %
-XML               3 hrs 45 mins   ̡>>>>>>>>>>>>>>>>>>>>>>>>   03.77 %
+Java              44 hrs 55 mins  ͎͎͎͎͎͎͎͎͎͎͎̦>>>>>>>>>>>>>   46.22 %
+HTML              26 hrs 43 mins  ̡͎͎͎͎͎͎>>>>>>>>>>>>>>>>>>   27.49 %
+JavaScript        6 hrs 15 mins   ͎̝>>>>>>>>>>>>>>>>>>>>>>>   06.44 %
+XML               3 hrs 48 mins   ͎>>>>>>>>>>>>>>>>>>>>>>>>   03.93 %
+PlantUML file     3 hrs 44 mins   ͎>>>>>>>>>>>>>>>>>>>>>>>>   03.84 %
 ```
 
 <!--END_SECTION:waka-->
