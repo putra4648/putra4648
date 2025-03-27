@@ -1,7 +1,3 @@
-Proyek gabut yang sedang dikerjakan :
-  - [People Library System](https://github.com/putra4648/people-library-system)
-<!--  - [Budget Explorer System](https://gitlab.com/gabut1015701/budget-explorer) -->
-
 ### Statistic
 <!--START_SECTION:waka-->
 
