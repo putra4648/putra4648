@@ -1,23 +1,17 @@
-### Statistic
-<!--START_SECTION:waka-->
+<h1 align="center">Hi 👋, I'm Putra</h1>
+<h3 align="center">A fullstack developer</h3>
 
-```python
-From: 23 February 2025 - To: 25 March 2025
+- 🌱 I’m currently learning **Springboot**
 
-Total Time: 90 hrs 17 mins
+- 💬 Ask me about **Spring, Java**
 
-Java              45 hrs 56 mins  ͎͎͎͎͎͎͎͎͎͎͎͎>>>>>>>>>>>>>   50.88 %
-HTML              26 hrs 56 mins  ͎͎͎͎͎͎͎͚>>>>>>>>>>>>>>>>>   29.84 %
-XML               3 hrs 57 mins   ͎͙>>>>>>>>>>>>>>>>>>>>>>>   04.38 %
-PlantUML file     3 hrs 46 mins   ͎͙>>>>>>>>>>>>>>>>>>>>>>>   04.19 %
-JavaScript        3 hrs 19 mins   ̡>>>>>>>>>>>>>>>>>>>>>>>>   03.69 %
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/putra4648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="putra4648" height="30" width="40" /></a>
+</p>
 
-<!--END_SECTION:waka-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
 
-If you love snake eater here the snake 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pradana4648/pradana4648/blob/c0566a83ca6ea5f2e46bab00e717c4c82b4b5c4c/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pradana4648/pradana4648/blob/c0566a83ca6ea5f2e46bab00e717c4c82b4b5c4c/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/pradana4648/pradana4648/blob/c0566a83ca6ea5f2e46bab00e717c4c82b4b5c4c/github-contribution-grid-snake.svg" />
-</picture>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=putra4648&show_icons=true&hide_border=true&locale=en&layout=compact" alt="putra4648" /></p>
