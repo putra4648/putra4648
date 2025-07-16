@@ -1,3 +1,5 @@
-~~Not used in this anymore, I move my codes to Gitlab~~
+Things that I know are Java, Dart, Javascript, Typescript and some Kotlin.
 
-IDK
+I don't like to learn new programming language because I don't need it and the goals are same.
+
+That's the best I can do.
