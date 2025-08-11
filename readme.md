@@ -5,3 +5,5 @@ I don't like to learn new programming language because I don't need it and the g
 That's the best I can do.
 
 Currently I am working on a Warehouse Management project
+
+<img src="https://count.getloli.com/@putra4648?theme=booru-lewd" alt="my github"/>
