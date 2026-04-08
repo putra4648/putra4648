@@ -1,8 +1,8 @@
 ## Hello There 👋
 
-I'm Putra, I'm a software engineer, some of the languages ​​I know are __Java, JavaScript/Typescript, and Dart__.
+I'm Putra, I'm a software engineer, I can work with __Java, Golang, and Dart__.
 
-The main frameworks commonly used are __Springboot, Flutter, React, and Vue.__ 
+The main frameworks commonly I use __Springboot, GoFiber, and Vue.__ 
 
 <!-- [![An image of @pradana4648's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradana4648)](https://holopin.io/@pradana4648) -->
 
