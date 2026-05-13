@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I'm Putra, I'm a software engineer, I can work with __Java, Golang, and Dart__.
+I'm Putra, a software engineer, I can work with __Java, Golang, and Dart__.
 
 The main frameworks commonly I use __Springboot, GoFiber, and Vue.__ 
 
